@@ -86,7 +86,7 @@ gem 'timezone_local',              '~> 0.1.5'
 group(:development) do
   gem "letter_opener"
   gem 'thin'
-  gem 'byebug'
+  gem 'byebug'                    '~> 11.1.3'
 end
 
 group(:test) do
