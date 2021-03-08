@@ -11,7 +11,7 @@ gem 'rails',                       RAILS_VERSION
 gem 'jquery-rails'
 gem 'bundler',                     '>= 1.0.0'
 gem 'env'
-gem 'json', '~> 2.5.1'
+gem 'json', '2.5.1'
 
 # Jruby
 gem 'jruby-openssl',               :platforms => :jruby
